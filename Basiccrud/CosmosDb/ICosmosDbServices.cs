@@ -19,5 +19,12 @@ namespace Basiccrud.CosmosDb
         Task ReplaceAsync(dynamic ExistingItem);
 
         Task<Admin> RegisterAdmin(Admin admin);
+
+        Task<Admin> GetAdminByUId(string adminUId);
+
+        Task<List<Admin>> GetAllAdmin();
+
+        Task<Admin> UpdateAdminByUId(string adminUId);
+        Task<Admin> DeleteAdminByUId(string adminUId);
     }
 }

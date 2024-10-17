@@ -60,6 +60,29 @@ namespace Basiccrud.CosmosDb
             return response;
         }
 
+        public async Task<Admin> GetAdminByUId(string adminUId)
+        {
+            var response = _container.GetItemLinqQueryable<Admin>(true).Where(b => b.UId == adminUId && b.DocumentType == Credentials.AdminDocumentType && b.Active && !b.Archieved).AsEnumerable().FirstOrDefault();
+            return response;
+        }
+
+        public async Task<List<Admin>> GetAllAdmin()
+        {
+            var response = _container.GetItemLinqQueryable<Admin>(true).Where(b => b.DocumentType == Credentials.AdminDocumentType && b.Active && !b.Archieved).ToList();
+            return response;
+        }
+
+        public async Task<Admin> UpdateAdminByUId(string adminUId)
+        {
+            var response = _container.GetItemLinqQueryable<Admin>(true).Where(b => b.UId == adminUId && b.DocumentType == Credentials.AdminDocumentType && b.Active && !b.Archieved).AsEnumerable().FirstOrDefault();
+            return response;
+        }
+
+        public async Task<Admin> DeleteAdminByUId(string adminUId)
+        {
+            var response = _container.GetItemLinqQueryable<Admin>(true).Where(b => b.UId == adminUId && b.DocumentType == Credentials.AdminDocumentType && b.Active && !b.Archieved).AsEnumerable().FirstOrDefault();
+            return response;
+        }
         // to create cosmos services.x
 
 
