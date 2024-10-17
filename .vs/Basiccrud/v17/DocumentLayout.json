@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|c:\\users\\admin\\documents\\dot net projects\\visitor-mgmt\\basiccrud\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|solutionrelative:basiccrud\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|c:\\users\\admin\\documents\\dot net projects\\visitor-mgmt\\basiccrud\\services\\visitorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|solutionrelative:basiccrud\\services\\visitorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|c:\\users\\admin\\documents\\dot net projects\\visitor-mgmt\\basiccrud\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|solutionrelative:basiccrud\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|c:\\users\\admin\\documents\\dot net projects\\visitor-mgmt\\basiccrud\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|solutionrelative:basiccrud\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|c:\\users\\admin\\documents\\dot net projects\\visitor-mgmt\\basiccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|solutionrelative:basiccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,24 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Program.cs",
-              "RelativeDocumentMoniker": "Basiccrud\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Program.cs",
-              "RelativeToolTip": "Basiccrud\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Basiccrud\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Basiccrud\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBUAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T05:28:07.896Z",
+              "WhenOpened": "2024-10-17T06:03:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitorServices.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Services\\VisitorServices.cs",
+              "RelativeDocumentMoniker": "Basiccrud\\Services\\VisitorServices.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Services\\VisitorServices.cs",
+              "RelativeToolTip": "Basiccrud\\Services\\VisitorServices.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:00:58.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Services\\AdminServices.cs",
+              "RelativeDocumentMoniker": "Basiccrud\\Services\\AdminServices.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Services\\AdminServices.cs",
+              "RelativeToolTip": "Basiccrud\\Services\\AdminServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:01:12.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "Basiccrud\\Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "Basiccrud\\Controllers\\VisitorController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:00:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Program.cs",
+              "RelativeDocumentMoniker": "Basiccrud\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Program.cs",
+              "RelativeToolTip": "Basiccrud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:28:07.896Z",
+              "EditorCaption": ""
             }
           ]
         }
