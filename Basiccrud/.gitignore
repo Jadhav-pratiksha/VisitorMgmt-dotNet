@@ -1,0 +1,47 @@
+# Ignore Visual Studio temporary files, build results, and
+# certain project- and solution-level files.
+
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.exe
+*.dll
+*.appx
+*.log
+*.vspscc
+*.vssscc
+*.csproj.user
+*.csproj.FileListAbsolute.txt
+*.csproj.DotSettings.user
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore the global NuGet packages folder
+# (https://docs.microsoft.com/en-us/nuget/consume-packages/managing-the-global-packages-and-cache-folders)
+$HOME/.nuget/packages
+**/packages/*
+
+# Ignore Publish and Packaging
+*.Publish.xml
+*.PublishSettings
+*.pubxml
+*.pubxml.user
+
+# Ignore Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore JetBrains Rider IDE files
+.idea/
+
+# Ignore temporary files from extension settings
+.vscode/

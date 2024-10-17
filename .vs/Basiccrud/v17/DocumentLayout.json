@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|c:\\users\\admin\\documents\\dot net projects\\visitor-mgmt\\basiccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1F37E8-423B-46C6-95AE-EAD2269B2CC9}|Basiccrud\\Basiccrud.csproj|solutionrelative:basiccrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Program.cs",
+              "RelativeDocumentMoniker": "Basiccrud\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Dot net Projects\\visitor-mgmt\\Basiccrud\\Program.cs",
+              "RelativeToolTip": "Basiccrud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:28:07.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
