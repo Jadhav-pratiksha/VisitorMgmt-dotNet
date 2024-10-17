@@ -41,4 +41,3 @@ namespace Basiccrud.Models
         public string Status { get; set; } // Active, Suspended, etc.
     }
 }
-}

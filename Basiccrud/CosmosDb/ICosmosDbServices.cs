@@ -17,5 +17,7 @@ namespace Basiccrud.CosmosDb
         Task<Visitor> DeleteVisitorByUId(string visitorUId);
 
         Task ReplaceAsync(dynamic ExistingItem);
+
+        Task<Admin> RegisterAdmin(Admin admin);
     }
 }

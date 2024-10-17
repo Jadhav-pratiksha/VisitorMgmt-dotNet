@@ -9,6 +9,7 @@ namespace Basiccrud.Common
         public AutoMappingProfile() 
         {
             CreateMap<Visitor, VisitorModel>().ReverseMap();
+            CreateMap<Admin, AdminModel>().ReverseMap();
         }
     }
 }

@@ -54,6 +54,12 @@ namespace Basiccrud.CosmosDb
             }
         }
 
+        public async Task<Admin> RegisterAdmin(Admin admin)
+        {
+            var response = await _container.CreateItemAsync(admin);
+            return response;
+        }
+
         // to create cosmos services.x
 
 
